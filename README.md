@@ -23,7 +23,7 @@ The bill of materials (BOM) is available in pdf format in the repository.
 
 **Features:**
 * At the starting position, the robot is set on top of the line which must be in-between the two front IR sensor modules.
-* Checkmarks can be set anywhere on the line by placing a line across the path, so the two IR sensors will detect the dark line.
+* The programming sets a limit to a maximum of four checkmarks which can be set anywhere on the line by placing a line across the path, so the two IR sensors will detect the dark line.
 * Follows a line of any shape
   - given that there is a high contrast between the line and the surrounding surface. Ideally, the line should be black and on a white surface. I used black tape to draw the line on a white plastic surface (a tabletop).
   - as long as the curves are not too sharp, which would otherwise cause the robot to lose track of the line and go off-course. This can be fixed to a certain extent by lowering the speed of the motors in the Arduino code. 
