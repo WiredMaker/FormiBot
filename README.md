@@ -32,3 +32,5 @@ The bill of materials (BOM) as well as the datasheets are available in pdf forma
 * If there is any obstacle in front of the robot, the latter will stop until the obstacle is gone. The distance of obstacle detection can be changed.
 * The robot is meant to work as a Tour Guide, so the app has a Start Tour feature which causes the robot to go through all the checkpoints until the end and then come back to the starting position.
 * There is an emergency *Stop* feature in the app which does exactly what it says, as well as a *Reset* feature in case the LCD shows a wrong value for the checkpoint.
+
+Feel free to experiment with it, maybe even improve it and share with us!
