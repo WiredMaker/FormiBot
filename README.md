@@ -15,5 +15,7 @@ List of parts:
   - 1 x Support wheel
   - 1 x Metal chasis
   - 1 x Top metal plate with mounting hardware
+* 2 x 4xAA battery holders
+* Dupont wires
 
 The bill of materials (BOM) is available in pdf format in the repository.
