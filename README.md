@@ -10,6 +10,10 @@ List of parts:
 * 1 x HC-05 bluetooth module
 * 2 x DC motors
 * Mini Robot Rover Chassis Kit
-  - Mini Robot Rover Kit
+  - 2 x Wheels
+  - 2 x DC Motors in MicroServo shape
+  - 1 x Support Wheel
+  - 1 x Metal Chasis
+  - 1 x Top Metal Plate with mounting hardware
 
 The bill of materials (BOM) is available in pdf format in the repository.
