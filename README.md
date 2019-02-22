@@ -9,7 +9,7 @@ List of parts:
 * 1 x HC-SR04 ultrasonic sensor
 * 1 x HC-05 bluetooth module
 * 2 x DC motors
-* C
-
+* Mini Robot Rover Chassis Kit
+  - Mini Robot Rover Kit
 
 The bill of materials (BOM) is available in pdf format in the repository.
