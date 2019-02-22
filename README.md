@@ -11,9 +11,9 @@ List of parts:
 * 2 x DC motors
 * Mini Robot Rover Chassis Kit
   - 2 x Wheels
-  - 2 x DC Motors in MicroServo shape
-  - 1 x Support Wheel
-  - 1 x Metal Chasis
-  - 1 x Top Metal Plate with mounting hardware
+  - 2 x DC motors in micro servo body
+  - 1 x Support wheel
+  - 1 x Metal chasis
+  - 1 x Top metal plate with mounting hardware
 
 The bill of materials (BOM) is available in pdf format in the repository.
