@@ -9,7 +9,7 @@ Its name is inspired from Formica which is Latin for Ant – a diligent trail or
 * 1 x HC-SR04 ultrasonic sensor
 * 1 x HC-05 bluetooth module
 * 2 x DC motors
-* Mini Robot Rover Chassis Kit
+* Mini Robot Rover Chassis Kit (i purchased a kit due to time limitations but the chassis parts can be 3D printed)
   - 2 x Wheels
   - 2 x DC motors in micro servo body
   - 1 x Support wheel
