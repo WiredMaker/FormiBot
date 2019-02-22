@@ -19,7 +19,7 @@ Its name is inspired from Formica which is Latin for Ant – a diligent trail or
 * 8 x AA batteries (preferably rechargeable)
 * Dupont cables or jumper wires
 
-The bill of materials (BOM) is available in pdf format in the repository.
+The bill of materials (BOM) as well as the datasheets are available in pdf format in the repository.
 
 **Features:**
 * At the starting position, the robot is set on top of the line which must be in-between the two front IR sensor modules.
