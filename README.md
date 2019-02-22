@@ -2,7 +2,7 @@
 The FormiBot is a line-following robot with some extra features, including wireless control via dedicated Android app, obstacle detection, checkpoint selection along the line, LCD to show current or next location, etc. 
 Its name is inspired from Formica which is Latin for Ant – a diligent trail or line follower. :)
 
-List of parts:
+**List of parts:**
 * 1 x Arduino UNO R3
 * 2 x TCRT5000 IR sensor modules
 * 1 x L293D IC motor driver
@@ -21,7 +21,7 @@ List of parts:
 
 The bill of materials (BOM) is available in pdf format in the repository.
 
-Features:
+**Features:**
 * At the starting position, the robot is set on top of the line which must be in-between the two front IR sensor modules.
 * Checkmarks can be set anywhere on the line by placing a line across the path, so the two IR sensors will detect the dark line.
 * Follows a line of any shape
