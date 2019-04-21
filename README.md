@@ -11,7 +11,7 @@ The robot's name is inspired from Formica which is Latin for 'ant' – a diligen
 * 2 x Wheels
 * 2 x DC motors
 * 1 x front ball caster
-* 2 x 4xAA battery holders (one battery holder is used to power the motors and the second one is for the electronics)
+* 2 x 4xAA battery holders (one battery holder is connected to the motors and the second one is for the electronics, since the motors drain the batteries much quicker but you can use only one battery pack to power the entire robot)
 * Dupont cables or jumper wires
 
 The bill of materials (BOM) as well as the datasheets are available in pdf format in the repository.
