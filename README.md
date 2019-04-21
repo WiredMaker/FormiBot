@@ -1,6 +1,6 @@
 # FormiBot
 The FormiBot is a line-following robot with some extra features, including wireless (Bluetooth) control via dedicated Android app, obstacle detection, checkpoint selection along the line, including U-turn to go back to previous location on the line with an LCD to display the current or next location. 
-Its name is inspired from Formica which is Latin for 'ant' – a diligent trail or line follower. :)
+The robot's name is inspired from Formica which is Latin for 'ant' – a diligent trail or line follower. :)
 
 **List of parts:**
 * 1 x Arduino UNO R3
