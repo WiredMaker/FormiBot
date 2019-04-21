@@ -75,9 +75,9 @@ void loop()
   analogWrite(E1, 70); // Change speed using PWM via Enable pins (varies from min 0 to max 255)
   analogWrite(E2, 70); // And make both motors run at same speed and slow enough to not miss the line during turns
   
-  if (Serial.available()) // Checks for commands received from Bluetooth module via the Android app
+  if (Serial.available() > 0) // Checks if data is coming from the serial port
   {
-    goToLocation = Serial.read();
+    goToLocation = Serial.read(); // Reads the data from the serial port
   }
   if (1 <= goToLocation && goToLocation <= 4) //moves to the specific locations on the line
   {
