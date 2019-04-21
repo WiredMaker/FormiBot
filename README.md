@@ -1,5 +1,5 @@
 # FormiBot
-The FormiBot is a line-following robot with some extra features, including wireless control via dedicated Android app, obstacle detection, checkpoint selection along the line, LCD to show current or next location. 
+The FormiBot is a line-following robot with some extra features, including wireless control via dedicated Android app, obstacle detection, checkpoint selection along the line, including U-turn to go back to previous location and a nice LCD to show the current or next location. 
 Its name is inspired from Formica which is Latin for 'ant' – a diligent trail or line follower. :)
 
 **List of parts:**
