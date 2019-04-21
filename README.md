@@ -8,15 +8,10 @@ The robot's name is inspired from Formica which is Latin for 'ant' – a diligen
 * 1 x L293D IC motor driver
 * 1 x HC-SR04 ultrasonic sensor
 * 1 x HC-05 bluetooth module
+* 2 x Wheels
 * 2 x DC motors
-* Mini Robot Rover Chassis Kit (i purchased a kit due to time limitations but the chassis parts can be 3D printed)
-  - 2 x Wheels
-  - 2 x DC motors in micro servo body
-  - 1 x Support wheel
-  - 1 x Metal chasis
-  - 1 x Top metal plate with mounting hardware
+* 1 x front ball caster
 * 2 x 4xAA battery holders
-* 8 x AA batteries (preferably rechargeable)
 * Dupont cables or jumper wires
 
 The bill of materials (BOM) as well as the datasheets are available in pdf format in the repository.
