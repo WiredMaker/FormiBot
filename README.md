@@ -8,11 +8,12 @@ The robot's name is inspired from Formica which is Latin for 'ant' – a diligen
 * 1 x L293D IC motor driver
 * 1 x HC-SR04 ultrasonic sensor
 * 1 x HC-05 bluetooth module
-* 2 x Wheels
 * 2 x DC motors
+* 2 x Wheels (connected directly to the DC motors)
 * 1 x front ball caster
 * 2 x 4xAA battery holders (one battery holder is connected to the motors and the second one is for the electronics, since the motors drain the batteries much quicker. Optionally, you can use only one battery pack to power the entire robot)
 * Dupont cables or jumper wires
+* A chassis to fix and mount all the components. You can purchase a robot chassis online or build your own from acrylic, wood, etc, or 3D print (Thingiverse has a lot of freely available designs).
 
 The bill of materials (BOM) as well as the datasheets are available in pdf format in the repository.
 
