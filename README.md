@@ -29,7 +29,7 @@ The bill of materials (BOM) as well as the datasheets are available in pdf forma
   - as long as the curves are not too sharp, which would otherwise cause the robot to lose track of the line and go off-course. This can be fixed to a certain extent by lowering the speed of the motors in the Arduino code. 
 * Using the Android app, the robot can be controlled to move to any checkpoint on the line. The robot follows the line and counts each checkpoint until it reaches the desired position and then stops. While moving, the robot LCD shows each checkpoint position that it passes.
 * The robot can be controlled to move to any position on the line. For example, it can move from position 2 to 4. It can also move backwards by first making a 180 degrees turn and then stay on the line while moving forwards. During the whole manoeuver, the LCD shows the updated checkmark position. 
-* If there is any obstacle in front of the robot, the latter will stop until the obstacle is gone. The distance of obstacle detection can be changed.
+* If there is any obstacle in front of the robot, the latter will stop until the obstacle is removed. The distance of obstacle detection can be changed in the Arduino code. By default, it is set to 100 cm.
 * The robot is meant to work as a Tour Guide, so the app has a Start Tour feature which causes the robot to go through all the checkpoints until the end and then come back to the starting position.
 * There is an emergency *Stop* feature in the app which does exactly what it says, as well as a *Reset* feature in case the LCD shows a wrong value for the checkpoint.
 
