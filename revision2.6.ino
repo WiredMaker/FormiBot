@@ -65,7 +65,7 @@ void setup() // The setup routine runs once when you press reset or power on
 
   lcd.begin(16, 2);
 
-  Serial.begin(9600);
+  Serial.begin(9600); // opens serial port, sets data rate to 9600 bps
 
   delay (1000);  // wait 1 sec before going
 }
