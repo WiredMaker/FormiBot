@@ -1,4 +1,4 @@
-/*------ Arduino Line Follower using L293D and Obstacle Detection and Bluetooth ----- */
+/*------ Arduino Line Follower with Obstacle Detection and Bluetooth Control via Android app ----- */
 
 /*Libraries*/
 #include <LiquidCrystal.h>
