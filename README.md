@@ -22,7 +22,7 @@ The robot's name is inspired from Formica which is Latin for 'ant' – a diligen
 The bill of materials (BOM) as well as the datasheets are available in pdf format in the repository.
 
 **Features:**
-* At the starting position, the robot is set on top of the line which must be in-between the two front IR sensor modules. So, in essence, the robot technically functions by avoiding the line, since the programming causes the two IR sensors to avoid the line in  between them, which subsequently causes the robot to follow the line.
+* At the starting position, the robot is positioned with the line in between its two front IR sensor modules. So, in essence, the robot operates by avoiding the line, since the programming causes the two IR sensors to avoid the line in  between them, which subsequently causes the robot to follow the line.
 * A maximum of four checkmarks can be set anywhere on the line by placing a line across the path, so the two IR sensors will detect the dark line. The number of checkmarks can be increased by modifying the Arduino code but the app won't work for more than four checkmarks.
 * Follows a line of any shape:
   - given that there is a high contrast between the line and the surrounding surface. Ideally, the line should be black and on a white surface. I used black tape to draw the line on a white plastic surface (a tabletop).
