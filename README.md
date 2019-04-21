@@ -31,6 +31,6 @@ The bill of materials (BOM) as well as the datasheets are available in pdf forma
 * The robot can be controlled to move to any position on the line. For example, it can move from position 2 to 4. It can also move backwards by first making a 180 degrees turn and then stay on the line while moving forwards. During the whole manoeuver, the LCD shows the updated checkmark position. 
 * If there is any obstacle in front of the robot, the latter will stop until the obstacle is removed. The distance of obstacle detection can be changed in the Arduino code. By default, it is set to 100 cm.
 * The robot is meant to work as a Tour Guide, so the app has a Start Tour feature which causes the robot to go through all the checkpoints until the end and then do a 180 degrees turn on the line and follow it all the way back to the starting position.
-* There is an emergency *Stop* feature in the app which does exactly what it says, as well as a *Reset* feature in case the LCD shows a wrong value for the checkpoint.
+* There is an emergency *Stop* feature in the app which does exactly what it says, as well as a *Reset* feature in case something goes wrong, such as the LCD showing a wrong value for the checkpoint which would mean that the counter variable needs to be reset. Instead of pressing the hardware reset button on the Arduino board, you can simply use the app.
 
 Feel free to experiment with it, maybe even improve it and share with us!
