@@ -33,4 +33,4 @@ The bill of materials (BOM) as well as the datasheets are available in pdf forma
 * The robot is meant to work as a Tour Guide, so the app has a Start Tour feature which causes the robot to go through all the checkpoints until the end and then do a 180 degrees turn on the line and follow it all the way back to the starting position.
 * There is an emergency *Stop* feature in the app which does exactly what it says, as well as a *Reset* feature in case something goes wrong, such as the LCD showing a wrong value for the checkpoint which would mean that the counter variable needs to be reset. Instead of pressing the hardware reset button on the Arduino board, you can simply use the app.
 
-Feel free to experiment with it, maybe even improve it and share with us!
+Feel free to experiment with it, improve it and submit any changes!
